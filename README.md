@@ -9,7 +9,6 @@ This Salesforce CRM project is designed to manage the booking of co-living space
 - [Features](#features)
 - [Salesforce Components](#salesforce-components)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
 - [Data Model](#data-model)
 - [Automation](#automation)
 - [Usage](#usage)
